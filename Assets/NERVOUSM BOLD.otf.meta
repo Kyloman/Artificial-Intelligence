@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8e05ab9f07be87b4f9f3d252792dde8f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nervousm
+  fontNames:
+  - Nervousm
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 88163abf45fadb64cbf821b71c4250cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
