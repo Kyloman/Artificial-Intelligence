@@ -1,5 +1,6 @@
 # Genetic Algorithm
-https://simmer.io/@Kyloman/genetic-algorithm
+Playable link: https://simmer.io/@Kyloman/genetic-algorithm
+
 This project utilizes the genetic algorithm in order to simulate natural selection. 
 
 ![](images/genetic.PNG)
